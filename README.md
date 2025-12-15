@@ -23,4 +23,5 @@ docker compose exec php bin/console app:populate:db
 docker compose exec php bin/console app:bug
 ```
 
-Script : [BugCommand.php](src/BugCommand.php)
+- Script : [BugCommand.php](src/BugCommand.php)
+- Related issue : https://github.com/doctrine/orm/issues/12323
