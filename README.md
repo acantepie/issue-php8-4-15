@@ -22,3 +22,5 @@ docker compose exec php bin/console app:populate:db
 ```bash
 docker compose exec php bin/console app:bug
 ```
+
+Script : [BugCommand.php](src/BugCommand.php)
